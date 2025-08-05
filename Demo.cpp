@@ -4,5 +4,5 @@ int main()
 {
   cout<<"hello"<<endl;
 
-  return 10;
+  return 100;
 }
